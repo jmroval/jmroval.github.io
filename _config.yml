@@ -1,7 +1,10 @@
+remote_theme: jekyll-theme-minimal
+description: docendo discimus.
+# Site wide configuration
+
+title: Chema Rodriguez
+date_format: "%b %-d, %Y"
+social_links:
+  github:  jmroval
+  linkedIn: in/josé-maría-rodríguez-valadez-157b0680/ # format: locale/username
 theme: jekyll-theme-minimal
-title: welcome page
-description: Chema Rodriguez webpage
-
-
-
-# Title
