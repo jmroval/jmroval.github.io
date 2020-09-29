@@ -14,3 +14,7 @@ Rodríguez-Valadez, José María. “Programmatic Policy and Non-Written Eligibi
 Motolinia, Lucia, and José María Rodríguez-Valadez. “Colorism and the latent race cleavage in Mexico. Evidence from an Online experiment”. 
 
 Rodríguez-Valadez, José María. “The effects of the access to transportation networks on economic performance. Evidence from Mexican municipalities.”. La Gaceta de Economia 21.34 (2015): , 21, 34, 55-95.
+
+
+
+[back](/)
