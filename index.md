@@ -1,8 +1,8 @@
---
+---
 layout: default
---
+---
 
-## Hola!
+# Hola!
 
 
 I'm a PhD Candidate in Princeton's Politics Department and the Joint Degree Program in Social Policy at the Princeton School of Public and International Affairs.
