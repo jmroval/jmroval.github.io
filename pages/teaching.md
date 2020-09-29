@@ -23,3 +23,4 @@ This class serves as an introduction to the quantitative methods sequence at Pri
 
 Would universal health insurance improve the health of the poor? Do patterns of arrests in US cities show evidence of racial profiling? What accounts for who votes and their choice of candidates? This course will teach students how to address these and other social science questions by analyzing quantitative data. The course introduces basic principles of statistical inference and programming skills for data analysis. The goal is to provide students with the foundation necessary to analyze data in their own...
 
+[back](/)
